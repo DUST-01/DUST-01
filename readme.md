@@ -1,5 +1,6 @@
 # 자바 스프링부트 스터디
 
+### [@choi](https://github.com/ghchoi0427)
 
 [스프링 입문 강의](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8) 를 매주 학습한 내용 바탕으로 각 섹션별로 발표자를 지정하여  발표하는 시간을 가집니다.
 
