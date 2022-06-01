@@ -49,7 +49,6 @@ class MemberServiceTest {
         Member member2 = new Member();
         member2.setName("spring");
 
-
         //when
         memberService.join(member1);
         //assert에서 재공하는 예외 같는지 판별하기
@@ -57,7 +56,6 @@ class MemberServiceTest {
         //변수로 받아서 검사도 가능
         IllegalStateException e = assertThrows(IllegalStateException.class, () -> memberService.join(member2));
         assertThat(e.getMessage()).isEqualTo("이미 존재하는 회원입니다.");
-
 
         //        try{
 //            memberService.join(member2);
